@@ -1,0 +1,6 @@
+{
+  "tslint.enable": true,
+
+  "eslint.autoFixOnSave": true,
+  "tslint.autoFixOnSave": true
+}
