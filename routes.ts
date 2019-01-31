@@ -8,7 +8,7 @@ export const requestHandler = (
   if (url === '/') {
     response.setHeader('Content-Type', 'text/html');
     response.write('<html>');
-    response.write('<head><title>enter message</title></head>');
+    response.write('<head><title>Hello World</title></head>');
     response.write('<body><h1>Hello world from typescript-config</h1e></body>');
 
     response.write('</html>');
